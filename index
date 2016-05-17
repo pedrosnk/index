@@ -472,6 +472,12 @@ Pretty, minimal, git-centric prompt
 prompt minimal
 derhuerst
 
+wttr
+https://github.com/pedrosnk/omf-wttr
+wttr integration for fish
+cli weather wttr
+pedrosnk
+
 yourls
 https://github.com/jethrokuan/fish-yourls
 CLI for YOURLS
